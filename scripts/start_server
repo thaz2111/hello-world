@@ -1,2 +1,2 @@
-#!/usr/sbin
+#!/bin/sh
 service apache2 start
