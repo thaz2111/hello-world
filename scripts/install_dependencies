@@ -1,3 +1,2 @@
 #!/bin/bash
-
 cp -r /index.html /var/www/html/
