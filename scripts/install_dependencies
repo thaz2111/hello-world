@@ -1,1 +1,1 @@
-cp -r /index.html /var/www/html/
+cp -r /home/ubuntu/workspace/Testemp/index.html /var/www/html/
