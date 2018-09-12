@@ -1,2 +1,1 @@
-cp -r /home/ubuntu/workspace/Testemp/index.html /var/www/html/
-sudo apachectl stop
+cp -r /home/ubuntu/workspace/Testemp/index.html /var/www/html
